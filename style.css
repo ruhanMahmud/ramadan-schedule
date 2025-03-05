@@ -81,7 +81,8 @@ tbody tr:nth-child(even) {
 
 @media (max-width: 480px) {
     body {
-        padding: 2px;
+        padding: 5px;
+        margin: 5px;
     }
 
     table {
